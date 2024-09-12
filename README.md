@@ -1,1 +1,2 @@
 # Stock-Market-Analysis
+The Stock Market Performance Analysis project involves calculating moving averages, measuring volatility, conducting correlation analysis, and examining various factors that influence stock prices. The analysis will focus on four financial companies: JPMorgan Chase & Co, Bank of America Corporation, Wells Fargo & Company, and Morgan Stanley, to gain deeper insights into stock price movements and inter-company relationships.
